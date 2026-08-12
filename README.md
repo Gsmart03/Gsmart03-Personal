@@ -1,31 +1,21 @@
-# Hi! I'M Adejumo Abdulsobur
+# Hi, I'M ABDULSOBUR! 
+## I'm a GRAPHIC Designer
 
-## About Me
+# Graphic Design
 
-I am a passionate, hardworking, and growth-oriented undergraduate student with strong interests in agriculture, research, graphic design, data analysis, and digital creativity. My academic journey has given me a solid understanding of agricultural science, particularly crop production, soil management, animal production, farm management, and environmental sustainability. I am passionate about using knowledge, technology, and innovation to solve practical problems.
+Graphic design is the art of communicating ideas, information, and messages through visual elements. It combines creativity, technology, typography, colors, images, shapes, and layouts to create designs that attract attention and communicate effectively. Graphic design is used in many areas, including branding, advertising, social media, websites, magazines, posters, packaging, and business presentations.
 
-One of my major academic interests is environmental research, especially the remediation of heavy-metal-contaminated soils using sustainable agricultural practices. Through my research on kenaf (*Hibiscus cannabinus*) and cattle dung, I have developed experience in conducting experiments, collecting data, analysing results, and interpreting scientific findings. This has also increased my interest in becoming a skilled data analyst, where I can use data to identify patterns, generate insights, and support informed decision-making.
+A good graphic designer understands how to balance creativity with clear communication. The choice of colors, fonts, images, and spacing can influence how people understand and respond to a design. Modern graphic designers often use tools such as Adobe Photoshop, Illustrator, CorelDRAW, Canva, and Figma to bring their ideas to life.
 
-In addition to my academic interests, I am passionate about graphic design and digital creativity. I enjoy creating visually appealing designs, developing brand identities, producing promotional materials, and helping individuals and businesses communicate their ideas effectively. I am continuously improving my skills in design, branding, and digital marketing.
-
-I also value teamwork, leadership, discipline, communication, and continuous self-development. My involvement in university activities and organisations has helped me build confidence, leadership abilities, and interpersonal skills.
-
-Overall, I consider myself a versatile and ambitious individual who is always willing to learn and take on new challenges. My goal is to combine agriculture, data analysis, and creative design to create meaningful solutions and contribute positively to society.
+Learning graphic design develops creativity, attention to detail, problem-solving, and communication skills. It is also a valuable digital skill that can create opportunities in marketing, branding, freelancing, content creation, and business. Graphic design is not just about making things beautiful; it is about telling a visual story that connects with people.
 
 ## Tools I Worked with
-- Excel
-- SQL
-- Power Bi
 - Figma
 - CorelDRAW
-- Python
+- Adobe Photoshop
+- Adobe After Effect
 
 ## My Recent Project
-- [Debayor-project](https://gsmart03.github.io/Debayor-Project/)
+- ![ALt:](https://gsmart03.github.io/Debayor-Project/)
 
-## Currently Learning
-- Excel
-- Power BI
-- SQL
-## Let's Connect
-[linkedin](www.linkedin.com/in/adejumo-abdulsobur-b40184249)
+
